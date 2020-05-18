@@ -9,17 +9,17 @@
 微信建群、微信拉人进群、踢群成员、邀请群成员、退群、改群名称、群列表、发布群公告、多群消息同步等      
 微信公众号阅读、关注与取消关注公众号、公众号列表信息、清理微信空间...功能太多懒得写了！！！
 
-咨询请加微信tangjinjinwx
+咨询请加微信happybabby110
 
 微信sdk可开发软件说明
 ----------------------------
 本SDK适用于微信营销软件研发、微信营销手机研发、微信手机群控系统研发、云控系统研发、微信客服系统研发、微信营销系统研发、
-微客微商营销工具研发、微信scrm客服系统研发、淘宝客微信发单机器人研发、导购返利机器人研发、微信群管理机器人研发等。
-使用此sdk可快速实现微信的二次开发，让你轻松开发出上述软件功能。
+微客微商营销工具研发、微信scrm客服系统研发、淘宝客微信发单机器人研发、导购返利机器人研发、微信群管理机器人研发、营销手机、手机监控、工作手机、智能机器人等研发等。使用此sdk可快速实现微信的二次开发，让你轻松开发出上述软件功能。功能参考接口参考http://www.wlkankan.cn/cate40/229.html
 SDK接入简单、兼容性好、拓展性强，始终支持微信官方最新版本，并定时维护升级，可按需定制！
-功能参考接口参考http://www.yunlauncher.com/Blog/articles/119.html
 
-咨询请加微信tangjinjinwx
+！！！！sdk会不断更新升级，demo的最新源码请加微信了解详情！！！！
+
+咨询请加微信happybabby110
 
 微信sdk技术方案特色
 --------------------
@@ -35,9 +35,31 @@ SDK接入简单、兼容性好、拓展性强，始终支持微信官方最新�
 ----------------------------
 1、需要真实手机，安卓5.0以上操作系统
 
-2、手机需要root,微信sdk需要root权限
+2、手机需要root,微信sdk需要root权限(免root方案也有，具体请加微信咨询)
 
 3、自主搭建服务端时，请自主进入设置界面修改服务端ip及端口
+
+# 微信SDK可以用了做什么
+
+对接企业CRM、SCRM; 
+
+智能机器人；
+
+群发单；淘客机器人； 
+
+云控系统； 
+
+营销系统、营销工具； 
+
+智能客服系统； 
+
+群管理系统； 
+
+营销手机，手机监控，工作手机； 
+
+其他可能用到的业务软件系统…
+
+咨询请加微信happybabby110
 
 
 微信SDK接口API全部协议定义
@@ -310,17 +332,18 @@ HistoryMsgPushNotice = 2033;
 9、群成员（陌生人）信息
 ChatRoomMembersNotice = 2034;
 
-目前【聚客通】等等等scrm都是基于这个API二次开发的。
+# 目前市面上很多scrm都是基于这个API二次开发的。
 --------------------
-咨询请加微信tangjinjinwx
+咨询请加微信happybabby110
 
-以下为PC端演示demo,源码已上传到github，二次开发有疑问请加微信tangjinjinwx
---------------------
-![Image text](http://www.yunlauncher.com/kf/1.png)
-![Image text](http://www.yunlauncher.com/kf/2.png)
-![Image text](http://www.yunlauncher.com/kf/3.png)
-![Image text](http://www.yunlauncher.com/kf/4.png)
-![Image text](http://www.yunlauncher.com/kf/5.png)
+
+# 以下为PC端演示demo,老的源码已上传到github，二次开发有疑问请加微信咨询
+![Image text](http://www.wlkankan.cn/image/201911/A08F45F5D0316560CC2664D745E1208B.jpg)
+![Image text](http://www.wlkankan.cn/image/201911/29AF883E4116BBEA88EC378CCD610361.jpg)
+![Image text](http://www.wlkankan.cn/image/201911/BE60308DFDADE1F7D45786E15B971A8B.jpg)
+![Image text](http://www.wlkankan.cn/image/201911/DBC3CC67CCBEE29176E6BDEEAF3BAF8B.jpg)
+![Image text](http://www.wlkankan.cn/image/201911/98AA5B57B0943F6D682711CD8FCDB0C4.jpg)
+![Image text](http://www.wlkankan.cn/image/201911/E831DF113ACCD550806E0F0EF9931BA2.jpg)
 
 微信sdk方案可实现功能说明
 --------------
@@ -374,3 +397,14 @@ ChatRoomMembersNotice = 2034;
 微信也能制定KPI，评估每个客服的工作量，合理分配，提高工作效率；员工微信工作量实时统计，可视化
 报表，支持查看团队或个人统计数据
 一键统计重复的好友、群分别隶属于哪些微信客服号，有效解决企业客户的判定问题及群梳理
+
+
+# 技术交流QQ群
+------------------
+![Image text](http://www.wlkankan.cn/image/202005/qqqun.png)
+
+QQ群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=32b5ffa731c3dc853dd58900d3381aa13209ee03ff64b4e962560c5ccd3c801d">787065908</a>
+
+# 加微信请注明来意，谢谢！
+
+
